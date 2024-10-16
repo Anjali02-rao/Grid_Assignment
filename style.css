@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(237, 242, 248, 1)    
+}
+
+
+.Danial_Clifford {
+    display: flex;
+    background-image: images/image-daniel.jpg
+    
+}
